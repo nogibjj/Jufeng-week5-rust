@@ -1,3 +1,4 @@
+[![Rust](https://github.com/nogibjj/Jufeng-week5-rust/actions/workflows/rust.yml/badge.svg)](https://github.com/nogibjj/Jufeng-week5-rust/actions/workflows/rust.yml)
 # Rust week5 mini project - Tic Tac Toe
 
 picture:
