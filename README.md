@@ -1,6 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust week5 mini project - Tic Tac Toe
 
-## References
+picture:
+<img width="432" alt="image" src="https://user-images.githubusercontent.com/44468782/220367543-a56e3264-1971-41b5-b06f-1715e3f48ad6.png">
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
